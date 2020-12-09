@@ -4,5 +4,5 @@
 
 - :orange_book: Focusing on C# & .Net
 - :hammer: Creator of applications and frameworks
-- :ram: Founder the ObjCCN
+- :ram: CXIST Devloper
 - :meat_on_bone: Meat lover
