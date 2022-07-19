@@ -4,5 +4,5 @@
 
 - :orange_book: Focusing on C# & .Net
 - :hammer: Creator of applications and frameworks
-- :ram: CXIST Devloper
+- :ram: LexisNexis Developer
 - :meat_on_bone: Meat lover
