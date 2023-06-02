@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=zhaozhengyan&show_icons=true&hide_title=true&theme=dark" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zhaozhengyan&show_icons=true&hide_title=true&theme=vue-dark" />
 
 ### 你好，世界 👋
 
